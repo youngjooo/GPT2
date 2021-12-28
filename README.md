@@ -15,3 +15,9 @@ Chapter 7. 사전 학습 모델
   - GPT2를 활용한 한국어 텍스트 분류 모델
   - GPT2를 활용한 한국어 자연어 추론 모델
   - GPT2를 활용한 한국어 텍스트 유사도 모델
+
+
+
+---
+## 파일 설명
+- main : git clone code. Set your path.
