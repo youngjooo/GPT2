@@ -20,5 +20,8 @@ Chapter 7. 사전 학습 모델
 
 ---
 ## 파일 설명
-- main
-git clone code. Set your path.
+- main : git clone code. Set your path.
+- 7.4.1.gpt2_finetune_LM : 한국어 언어 생성 모델
+- 7.4.2.gpt2_finetune_LSMC : 한국어 텍스트 분류 모델
+- 7.4.3.gpt2_finetune_KorNLI : 한국어 자연어 추론 모델
+- 7.4.4.gpt2_finetune_KorSTS : 한국어 텍스트 유사도 
