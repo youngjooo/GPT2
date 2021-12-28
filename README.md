@@ -3,7 +3,7 @@
 
 
 ---
-# 교재 : 텐서플로2와 머신러닝으로 시작하는 자연어 처리
+## 교재 : 텐서플로2와 머신러닝으로 시작하는 자연어 처리
 Chapter 7. 사전 학습 모델
 
 - 7.3 GPT
@@ -20,4 +20,5 @@ Chapter 7. 사전 학습 모델
 
 ---
 ## 파일 설명
-- main : git clone code. Set your path.
+- main
+git clone code. Set your path.
